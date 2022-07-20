@@ -1,2 +1,0 @@
-# linaoran.io
-test
